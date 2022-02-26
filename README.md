@@ -2,8 +2,7 @@
 
 DEPENDENCIES: 
 
-i3blocks
-
+i3blocks  
 i3gaps
 nitrogen
 Font-Awesome
