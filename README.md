@@ -1,7 +1,7 @@
 # i3config
 
-<dependencies>
-  
+DEPENDENCIES: 
+
 i3blocks
 i3gaps
 nitrogen
