@@ -3,9 +3,9 @@
 DEPENDENCIES: 
 
 i3blocks  
-i3gaps
-nitrogen
-Font-Awesome
-Allacrity
-compton
-xrandr
+i3gaps  
+nitrogen  
+Font-Awesome  
+Allacrity  
+compton  
+xrandr  
